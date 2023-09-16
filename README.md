@@ -1,1 +1,1 @@
-Assignment folder of SPO's Class by Azhrella Naradiyanti (5009211009)
+Assignment folder of PSO's Class by Azhrella Naradiyanti (5009211009)
