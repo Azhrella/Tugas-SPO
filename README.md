@@ -11,7 +11,8 @@ print("NRP: 5009211009")
 
 ### B. Result and Script on Spyder
 Phyton Script: https://github.com/Azhrella/Tugas-SPO/blob/master/Revision%20code.py
-<img width="960" alt="B" src="https://github.com/Azhrella/Tugas-SPO/assets/144868414/e690e520-bd6c-439e-85c2-6a318567058b">
+<img width="958" alt="Screenshot 2023-09-17 163916" src="https://github.com/Azhrella/Tugas-SPO/assets/144868414/116ef971-4231-4e04-ae6b-3bbb6f8e0f71">
+
 
 ### C. Last Commit Logs
 <img width="958" alt="C" src="https://github.com/Azhrella/Tugas-SPO/assets/144868414/ac5a2142-2e38-4f87-8164-8c991ccb8f2b">
